@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "nidhi shukla",
+      "email": "nshukla@gmail.com",
+      "address": "westbengal"
+    },
+    {
+      "id": 2,
+      "name": "riya das",
+      "email": "rdas@gmail.com",
+      "address": "delhi"
+    },
+    {
+      "id": 3,
+      "name": "anuj sharma",
+      "email": "asharma@gmail.com",
+      "address": "kharagpur"
+    },
+    {
+      "id": 4,
+      "name": "ayush tewari",
+      "email": "tayush@gmail.com",
+      "address": "chattisgarh"
+    },
+    {
+      "id": 6,
+      "name": "sabita jain",
+      "email": "jsabita@gmail.com",
+      "address": "patna"
+    },
+    {
+      "id": 7,
+      "name": "bhumi pandey",
+      "email": "bpandey@gmail.com",
+      "address": "tatanagar"
+    },
+    {
+      "id": 8,
+      "name": "rohit roy",
+      "email": "rroy@gmail.com",
+      "address": "mumbai"
+    },
+    {
+      "name": "namita ruj",
+      "email": "rujnamita@gmail.com",
+      "address": "hyderabad",
+      "id": 9
+    }
+  ]
+}
